@@ -1,0 +1,682 @@
+D:\carewell\SAMPLE\obj\Debug\ResolveAssemblyReference.cache
+D:\carewell\SAMPLE\obj\Debug\Interop.Shell32.dll
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.ResolveComReference.cache
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.BalanceRpt.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.bankrpt1.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.client.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.custpay1.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.deposit1.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.employee_rpt.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.incexpall_rpt.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.In_exp.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.New_Tradi.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Prd_rpt.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.purret_rep.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.pur_rep.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.QuoBill.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.SalesBill.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.salret_rep.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.sal_rep.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.stock.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.suppay1.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.supplier1.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.withdraw1.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Balance_Sheet.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Trading_Account.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.CAREWELL.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.ADDCONTACT.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.AssetForm.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.AccountCreation1.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Add_BankName.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.BankLoan.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.depositt.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.payment.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.WithDraw2.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info2.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.s.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.TEMPLATE.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.ReportForm.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.BankReport.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.CustPayment_rep.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.DailyBook.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.In_Exp_Ledger.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.in_exp_rpt.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_reports.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.purret_reports.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.sales_reports.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.salret_reports.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Stock_Ledger.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.supPayment_Rep.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.clientcreation.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.empcreation.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.loginregister.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Employee_User.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.GROUPSMS_NAGRPERSONS.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.login.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.organization.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.ProductRegister.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.brandname.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.materialname.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.suppliercreation.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.unitcreation.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.changepassword.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.QuickSMS.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Quotation.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Salary_Details.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.TODAYREPORT1.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert_iss.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Income_Expense.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.purchase.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Purchase_payment.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_return.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.sales_payment.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Return.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Voucher.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.GenerateResource.Cache
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Resources.resources
+D:\carewell\SAMPLE\bin\Debug\SAMPLE.exe
+D:\carewell\SAMPLE\bin\Debug\SAMPLE.pdb
+D:\carewell\SAMPLE\bin\Debug\SAMPLE.xml
+D:\carewell\SAMPLE\bin\Debug\Interop.Shell32.dll
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.exe
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.xml
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.pdb
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitmentreport.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.quotation_report.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitment.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.commit_rpt.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.commit_alert.resources
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Quote_rpt.rpt
+D:\carewell\SAMPLE\obj\Debug\SAMPLE.Printer.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.exe
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.xml
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.pdb
+D:\real time projects\carewell\SAMPLE\bin\Debug\SAMPLE.exe
+D:\real time projects\carewell\SAMPLE\bin\Debug\SAMPLE.pdb
+D:\real time projects\carewell\SAMPLE\bin\Debug\SAMPLE.xml
+D:\real time projects\carewell\SAMPLE\bin\Debug\Interop.Shell32.dll
+D:\real time projects\carewell\SAMPLE\obj\Debug\ResolveAssemblyReference.cache
+D:\real time projects\carewell\SAMPLE\obj\Debug\Interop.Shell32.dll
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.ResolveComReference.cache
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.BalanceRpt.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.bankrpt1.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.client.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.custpay1.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.deposit1.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.commit_rpt.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.employee_rpt.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.incexpall_rpt.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.In_exp.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.New_Tradi.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Prd_rpt.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.purret_rep.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.pur_rep.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.QuoBill.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Quote_rpt.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.SalesBill.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.salret_rep.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.sal_rep.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.stock.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.suppay1.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.supplier1.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.withdraw1.rpt
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Balance_Sheet.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Trading_Account.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.CAREWELL.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.ADDCONTACT.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.AssetForm.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.AccountCreation1.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Add_BankName.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.BankLoan.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.depositt.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.payment.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.WithDraw2.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info2.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.s.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.TEMPLATE.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.ReportForm.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.BankReport.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.CustPayment_rep.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.DailyBook.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitmentreport.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.In_Exp_Ledger.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.in_exp_rpt.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_reports.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.purret_reports.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.sales_reports.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.salret_reports.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Stock_Ledger.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.supPayment_Rep.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.commit_alert.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.clientcreation.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.empcreation.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.loginregister.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Employee_User.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.GROUPSMS_NAGRPERSONS.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.login.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.organization.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.ProductRegister.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.brandname.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.materialname.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.suppliercreation.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.unitcreation.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.changepassword.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Printer.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.QuickSMS.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.quotation_report.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Quotation.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Salary_Details.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.TODAYREPORT1.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert_iss.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitment.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Income_Expense.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.purchase.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Purchase_payment.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_return.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.sales_payment.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Return.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Voucher.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.Resources.resources
+D:\real time projects\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.GenerateResource.Cache
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.exe
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.xml
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.pdb
+D:\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.exe
+D:\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.pdb
+D:\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.xml
+D:\carewell\carewell\SAMPLE\bin\Debug\Interop.Shell32.dll
+D:\carewell\carewell\SAMPLE\obj\Debug\ResolveAssemblyReference.cache
+D:\carewell\carewell\SAMPLE\obj\Debug\Interop.Shell32.dll
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.ResolveComReference.cache
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BalanceRpt.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.bankrpt1.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.client.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.custpay1.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.deposit1.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.commit_rpt.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.employee_rpt.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.incexpall_rpt.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.In_exp.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.New_Tradi.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Prd_rpt.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purret_rep.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.pur_rep.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.QuoBill.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Quote_rpt.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.SalesBill.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salret_rep.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sal_rep.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.stock.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.suppay1.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.supplier1.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.withdraw1.rpt
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Balance_Sheet.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Trading_Account.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.CAREWELL.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ADDCONTACT.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.AssetForm.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.AccountCreation1.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Add_BankName.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BankLoan.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.depositt.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.payment.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.WithDraw2.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info2.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.s.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.TEMPLATE.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ReportForm.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BankReport.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.CustPayment_rep.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.DailyBook.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitmentreport.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.In_Exp_Ledger.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.in_exp_rpt.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_reports.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purret_reports.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sales_reports.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salret_reports.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Stock_Ledger.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.supPayment_Rep.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.commit_alert.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.clientcreation.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.empcreation.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.loginregister.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Employee_User.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.GROUPSMS_NAGRPERSONS.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.login.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.organization.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ProductRegister.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.brandname.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.materialname.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.suppliercreation.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.unitcreation.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.changepassword.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Printer.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.QuickSMS.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.quotation_report.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Quotation.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Salary_Details.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.TODAYREPORT1.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert_iss.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitment.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Income_Expense.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Purchase_payment.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_return.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sales_payment.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Return.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Voucher.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Resources.resources
+D:\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.GenerateResource.Cache
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.exe
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.xml
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.pdb
+D:\Original\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.exe
+D:\Original\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.pdb
+D:\Original\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.xml
+D:\Original\carewell\carewell\SAMPLE\bin\Debug\Interop.Shell32.dll
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\ResolveAssemblyReference.cache
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\Interop.Shell32.dll
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.ResolveComReference.cache
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BalanceRpt.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.bankrpt1.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.client.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.custpay1.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.deposit1.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.commit_rpt.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.employee_rpt.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.incexpall_rpt.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.In_exp.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.New_Tradi.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Prd_rpt.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purret_rep.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.pur_rep.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.QuoBill.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Quote_rpt.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.SalesBill.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salret_rep.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sal_rep.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.stock.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.suppay1.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.supplier1.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.withdraw1.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Balance_Sheet.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Trading_Account.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.CAREWELL.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ADDCONTACT.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.AssetForm.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.AccountCreation1.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Add_BankName.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BankLoan.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.depositt.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.payment.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.WithDraw2.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info2.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.s.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.TEMPLATE.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ReportForm.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BankReport.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.CustPayment_rep.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.DailyBook.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitmentreport.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.In_Exp_Ledger.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.in_exp_rpt.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_reports.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purret_reports.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sales_reports.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salret_reports.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Stock_Ledger.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.supPayment_Rep.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.commit_alert.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.clientcreation.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.empcreation.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.loginregister.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Employee_User.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.GROUPSMS_NAGRPERSONS.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.login.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.organization.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ProductRegister.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.brandname.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.materialname.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.suppliercreation.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.unitcreation.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.changepassword.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Printer.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.QuickSMS.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.quotation_report.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Quotation.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Salary_Details.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.TODAYREPORT1.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert_iss.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitment.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Income_Expense.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Purchase_payment.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_return.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sales_payment.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Return.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Voucher.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Resources.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.GenerateResource.Cache
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salesFormat1.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailyorder.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.order_rpt2.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.order_rpt1.rpt
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.order_rpt.resources
+D:\Original\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ledger.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.exe
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.xml
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.pdb
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.exe
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.pdb
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.xml
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\bin\Debug\Interop.Shell32.dll
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\ResolveAssemblyReference.cache
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\Interop.Shell32.dll
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.ResolveComReference.cache
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BalanceRpt.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.bankrpt1.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.client.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.custpay1.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.deposit1.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.commit_rpt.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.employee_rpt.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.incexpall_rpt.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.In_exp.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.New_Tradi.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.order_rpt2.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.order_rpt1.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Prd_rpt.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purret_rep.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.pur_rep.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.QuoBill.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Quote_rpt.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.SalesBill.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salesFormat1.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salret_rep.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sal_rep.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.stock.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.suppay1.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.supplier1.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.withdraw1.rpt
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Balance_Sheet.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Trading_Account.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.CAREWELL.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ledger.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ADDCONTACT.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.AssetForm.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.AccountCreation1.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Add_BankName.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BankLoan.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.depositt.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.payment.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.WithDraw2.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info2.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.s.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.TEMPLATE.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ReportForm.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BankReport.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.CustPayment_rep.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.DailyBook.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitmentreport.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.In_Exp_Ledger.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.in_exp_rpt.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.order_rpt.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_reports.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purret_reports.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sales_reports.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salret_reports.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Stock_Ledger.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.supPayment_Rep.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.commit_alert.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.clientcreation.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.empcreation.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.loginregister.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Employee_User.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.GROUPSMS_NAGRPERSONS.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.login.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.organization.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ProductRegister.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.brandname.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.materialname.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.suppliercreation.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.unitcreation.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.changepassword.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Printer.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.QuickSMS.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.quotation_report.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Quotation.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Salary_Details.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.TODAYREPORT1.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert_iss.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitment.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailyorder.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Income_Expense.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Purchase_payment.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_return.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sales_payment.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Return.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Voucher.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Resources.resources
+D:\Realtime Projects\carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.GenerateResource.Cache
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.exe
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.xml
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.pdb
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.exe
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.pdb
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.xml
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\bin\Debug\Interop.Shell32.dll
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\ResolveAssemblyReference.cache
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\Interop.Shell32.dll
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.ResolveComReference.cache
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BalanceRpt.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.bankrpt1.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.client.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.custpay1.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.deposit1.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.commit_rpt.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.employee_rpt.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.incexpall_rpt.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.In_exp.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.New_Tradi.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.order_rpt2.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.order_rpt1.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Prd_rpt.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purret_rep.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.pur_rep.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.QuoBill.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Quote_rpt.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.SalesBill.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salesFormat1.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salret_rep.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sal_rep.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.stock.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.suppay1.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.supplier1.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.withdraw1.rpt
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Balance_Sheet.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Trading_Account.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.CAREWELL.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ledger.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ADDCONTACT.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.AssetForm.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.AccountCreation1.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Add_BankName.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BankLoan.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.depositt.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.payment.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.WithDraw2.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info2.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.s.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.TEMPLATE.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ReportForm.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BankReport.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.CustPayment_rep.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.DailyBook.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitmentreport.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.In_Exp_Ledger.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.in_exp_rpt.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.order_rpt.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_reports.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purret_reports.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sales_reports.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salret_reports.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Stock_Ledger.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.supPayment_Rep.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.commit_alert.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.clientcreation.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.empcreation.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.loginregister.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Employee_User.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.GROUPSMS_NAGRPERSONS.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.login.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.organization.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ProductRegister.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.brandname.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.materialname.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.suppliercreation.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.unitcreation.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.changepassword.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Printer.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.QuickSMS.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.quotation_report.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Quotation.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Salary_Details.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.TODAYREPORT1.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert_iss.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitment.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailyorder.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Income_Expense.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Purchase_payment.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_return.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sales_payment.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Return.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Voucher.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Resources.resources
+D:\Realtime Projects\Carewell SW\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.GenerateResource.Cache
+D:\Realtime Projects\Carewell\carewell project\carewell\SAMPLE\obj\Debug\SAMPLE.exe
+D:\Realtime Projects\Carewell\carewell project\carewell\SAMPLE\obj\Debug\SAMPLE.xml
+D:\Realtime Projects\Carewell\carewell project\carewell\SAMPLE\obj\Debug\SAMPLE.pdb
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.exe
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.xml
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.pdb
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.exe
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.pdb
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\bin\Debug\SAMPLE.xml
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\bin\Debug\Interop.Shell32.dll
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\ResolveAssemblyReference.cache
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\Interop.Shell32.dll
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.ResolveComReference.cache
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BalanceRpt.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.bankrpt1.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.client.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.custpay1.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.deposit1.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.commit_rpt.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.employee_rpt.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.incexpall_rpt.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.In_exp.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.New_Tradi.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.order_rpt2.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.order_rpt1.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Prd_rpt.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purret_rep.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.pur_rep.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.QuoBill.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Quote_rpt.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.SalesBill.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salesFormat1.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salret_rep.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sal_rep.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.stock.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.suppay1.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.supplier1.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.withdraw1.rpt
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Balance_Sheet.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Trading_Account.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.CAREWELL.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ledger.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ADDCONTACT.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.AssetForm.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.AccountCreation1.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Add_BankName.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BankLoan.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.depositt.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.payment.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.WithDraw2.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info2.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.s.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.TEMPLATE.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ReportForm.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.BankReport.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.CustPayment_rep.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.DailyBook.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitmentreport.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.In_Exp_Ledger.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.in_exp_rpt.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.order_rpt.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_reports.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purret_reports.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sales_reports.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.salret_reports.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Stock_Ledger.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.supPayment_Rep.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.commit_alert.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Company_Info.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.clientcreation.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.empcreation.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.loginregister.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Employee_User.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.GROUPSMS_NAGRPERSONS.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.login.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.organization.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.ProductRegister.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.brandname.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.materialname.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.suppliercreation.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.unitcreation.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.changepassword.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Printer.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.QuickSMS.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.quotation_report.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Quotation.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Salary_Details.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.TODAYREPORT1.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.viewalert_iss.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailycommitment.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.dailyorder.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Income_Expense.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Purchase_payment.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.purchase_return.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.sales_payment.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Return.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Sales_Voucher.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.Resources.resources
+D:\Realtime Projects\Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.vbproj.GenerateResource.Cache
+D:\Realtime Projects\Carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.incomeexpense.resources
+D:\Realtime Projects\Carewell\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.incexp_rpt.rpt
+D:\Realtime Projects\5.Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.exe
+D:\Realtime Projects\5.Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.xml
+D:\Realtime Projects\5.Carewell Project\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.pdb
+D:\Realtime Projects\5.Carewell Project(FINAL)\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.exe
+D:\Realtime Projects\5.Carewell Project(FINAL)\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.xml
+D:\Realtime Projects\5.Carewell Project(FINAL)\carewell\carewell\SAMPLE\obj\Debug\SAMPLE.pdb
+D:\Realtime Projects\5.Carewell Project(FINAL)\carewell\carewell -source\SAMPLE\obj\Debug\SAMPLE.exe
+D:\Realtime Projects\5.Carewell Project(FINAL)\carewell\carewell -source\SAMPLE\obj\Debug\SAMPLE.xml
+D:\Realtime Projects\5.Carewell Project(FINAL)\carewell\carewell -source\SAMPLE\obj\Debug\SAMPLE.pdb

@@ -1,0 +1,744 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SAMPLE
+</name>
+</assembly>
+<members>
+<member name="T:SAMPLE.purchase_rpt.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.purchase_rpt.pur_rptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.purchase_rpt.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.purchase_rpt.pur_rptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.purchase_rpt.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.purchase_rpt.pur_rptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.purchase_rpt">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.quote_ds.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.quote_ds.quoteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.quote_ds.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.quote_ds.quoteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.quote_ds.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.quote_ds.quoteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.quote_ds">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.custpay_ds.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.custpay_ds.cust_payDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.custpay_ds.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.custpay_ds.cust_payRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.custpay_ds.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.custpay_ds.cust_payRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.custpay_ds">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.Inc_Exp_Set.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.Inc_Exp_Set.incomeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.Inc_Exp_Set.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.Inc_Exp_Set.incomeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.Inc_Exp_Set.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.Inc_Exp_Set.incomeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.Inc_Exp_Set">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.bal.BalanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.bal.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.bal.BalanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.bal.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.bal.BalanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.bal.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.bal">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.product.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.product.product_detailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.product.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.product.product_detailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.product.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.product.product_detailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.product">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.Order_ds.OrderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.Order_ds.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.Order_ds.OrderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.Order_ds.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.Order_ds.OrderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.Order_ds.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.Order_ds">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.sales_ds.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.sales_ds.SalesMainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.sales_ds.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.sales_ds.SalesDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.sales_ds.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.sales_ds.SalesMainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.sales_ds.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.sales_ds.SalesDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.sales_ds.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.sales_ds.SalesMainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.sales_ds.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.sales_ds.SalesDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.sales_ds">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.Sales_rpt.salesrptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.Sales_rpt.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.Sales_rpt.salesrptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.Sales_rpt.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.Sales_rpt.salesrptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.Sales_rpt.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.Sales_rpt">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.sup_pay_ds.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.sup_pay_ds.sup_payDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.sup_pay_ds.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.sup_pay_ds.sup_payRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.sup_pay_ds.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.sup_pay_ds.sup_payRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.sup_pay_ds">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.employee.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.employee.empDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.employee.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.employee.empRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.employee.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.employee.empRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.employee">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.quotation_ds.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.quotation_ds.quomainDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.quotation_ds.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.quotation_ds.quodetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.quotation_ds.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.quotation_ds.quomainRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.quotation_ds.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.quotation_ds.quodetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.quotation_ds.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.quotation_ds.quomainRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.quotation_ds.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.quotation_ds.quodetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.quotation_ds">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.Salret.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.Salret.salret_rptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.Salret.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.Salret.salret_rptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.Salret.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.Salret.salret_rptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.Salret">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.withdraw.DepositDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.withdraw.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.withdraw.DepositRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.withdraw.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.withdraw.DepositRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.withdraw.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.withdraw">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.in_exp_allds.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.in_exp_allds.incomeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.in_exp_allds.expenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.in_exp_allds.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.in_exp_allds.incomeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.in_exp_allds.expenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.in_exp_allds.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.in_exp_allds.incomeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.in_exp_allds.expenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.in_exp_allds">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.deposit.DepositDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.deposit.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.deposit.DepositRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.deposit.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.deposit.DepositRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.deposit.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.deposit">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.Trading.TradingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.Trading.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.Trading.TradingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.Trading.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.Trading.TradingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.Trading.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.Trading">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.commit_ds.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.commit_ds.commitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.commit_ds.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.commit_ds.commitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.commit_ds.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.commit_ds.commitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.commit_ds">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.purret_rpt.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.purret_rpt.pur_rpt1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.purret_rpt.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.purret_rpt.pur_rpt1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.purret_rpt.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.purret_rpt.pur_rpt1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.purret_rpt">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.bankrpt.BankReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.bankrpt.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.bankrpt.BankReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.bankrpt.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.bankrpt.BankReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.bankrpt.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.bankrpt">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.incexp_ds.incexpDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.incexp_ds.incexpRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.incexp_ds.incexpRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.incexp_ds">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.stock_ds.stockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.stock_ds.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.stock_ds.stockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.stock_ds.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.stock_ds.stockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.stock_ds.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.stock_ds">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SAMPLE.cust_ds.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.cust_ds.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.cust_ds.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.cust_ds.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.cust_ds.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.cust_ds.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.cust_ds">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:SAMPLE.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SAMPLE.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SAMPLE.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SAMPLE.supplier.suppDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.supplier.CompanydetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SAMPLE.supplier.suppRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.supplier.CompanydetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SAMPLE.supplier.suppRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.supplier.CompanydetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SAMPLE.supplier">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
